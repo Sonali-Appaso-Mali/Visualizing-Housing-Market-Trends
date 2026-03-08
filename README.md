@@ -8,24 +8,40 @@ The repository contains all phases of the project development lifecycle, from in
 
 
 ###1)Ideation Phase - Brainstorming and problem identification
+
 ###2)Requirement Analysis - System requirements and user stories
+
 ###3)Project Design Phase - Solution architecture and design
+
 ###4)Project Planning Phase - Project timeline and planning
+
 ###5)Project Executable Files - Main visualization files and data
+
 ###6)Functional And Performance Testing - Testing documentation
+
 ###7)Doc and Demo - Final report and demonstration
 
 ##Key Components
+
+
 ###1.Visualizations
+
 Interactive Dashboards: Built with Tableau (.twb files)
 
 ###2.Data Stories: Narrative visualizations showcasing housing market insights
+
 Screenshots: Visual documentation of dashboard interfaces
+
 ###3.Main Executable Files
+
 Transformed_Housing_Data2.csv - Processed housing market dataset
+
 https://public.tableau.com/app/profile/sonali.mali2326/vizzes - Tableau workbook with dashboards and stories
+
 Dashboard_Screen_Shots.pdf - Visual preview of dashboards
+
 Screenshots_of_Story.pdf - Story visualization examples
+
 ##Documentation
 ###1.Ideation Phase: Problem statement and empathy mapping
 ###2.Requirement Analysis: User stories and data flow diagrams
