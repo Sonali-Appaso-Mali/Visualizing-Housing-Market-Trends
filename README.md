@@ -7,13 +7,13 @@ The repository contains all phases of the project development lifecycle, from in
 ## Project Structure:
 
 
-2. [Ideation Phase](./2.%20Ideation%20Phase) - Brainstorming and problem identification  
-3. [Requirement Analysis](./3.%20Requirement%20Analysis) - System requirements and user stories  
-4. [Project Design Phase](./4.%20Project%20Design%20Phase) - Solution architecture and design  
-5. [Project Planning Phase](./5.%20Project%20Planning%20Phase) - Project timeline and planning  
-6. [Project Executable Files](./6.%20Project%20Executable%20Files) - Main visualization files and data  
-7. [Functional And Performance Testing](./7.%20Functional%20And%20Performance%20Testing) - Testing documentation  
-8. [Doc and Demo](./8.%20Doc%20and%20Demo) - Final report and demonstration
+2. Ideation Phase- Brainstorming and problem identification  
+3. Requirement Analysis- System requirements and user stories  
+4. Project Design Phase - Solution architecture and design  
+5. Project Planning Phase - Project timeline and planning  
+6. Project Executable Files- Main visualization files and data  
+7. Functional And Performance Testing- Testing documentation  
+8. Doc and Demo - Final report and demonstration
 
 
 ## Key Components
@@ -88,7 +88,7 @@ All phases contain PDF documentation that can be viewed with any PDF reader:
 - Final documentation and demo preparation
 
 ## Team Members
--Team Id: DataAnalytics10
+- Team Id: DataAnalytics10
 - Sonali Mali
 - Soniya Shinde
 - Adinath Powar
