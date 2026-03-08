@@ -1,7 +1,8 @@
 # Visualizing-Housing-Market-Trends
 
 # Overview
-This project focuses on visualizing housing market trends through comprehensive data analysis and interactive dashboards. The repository contains all phases of the project development lifecycle, from initial ideation to final execution, including assignments, requirement analysis, design documentation, and executable files with visualizations.
+This project focuses on visualizing housing market trends through comprehensive data analysis and interactive dashboards.
+The repository contains all phases of the project development lifecycle, from initial ideation to final execution, including assignments, requirement analysis, design documentation, and executable files with visualizations.
 
 # Project Structure:
 
@@ -17,6 +18,7 @@ Doc and Demo - Final report and demonstration
 #Key Components
 1.Visualizations
 Interactive Dashboards: Built with Tableau (.twb files)
+
 2.Data Stories: Narrative visualizations showcasing housing market insights
 Screenshots: Visual documentation of dashboard interfaces
 3.Main Executable Files
